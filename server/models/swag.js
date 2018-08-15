@@ -1,4 +1,5 @@
 module.exports = [
+
   { id: 1, title: 'Snapback ( red )', category: 'hats', price: 10 },
   { id: 5, title: 'Jacket ( black )', category: 'jackets', price: 15 },
   { id: 19, title: 'T-Shirt ( orange )', category: 'shirts', price: 10 },
@@ -34,4 +35,5 @@ module.exports = [
   { id: 24, title: 'T-Shirt ( black )', category: 'shirts', price: 10 },
   { id: 35, title: 'Pants ( orange )', category: 'pants', price: 15 },
   { id: 30, title: 'Shorts ( black )', category: 'shorts', price: 15 },
+  
 ];
